@@ -1,5 +1,5 @@
 ## RESTful API Python(FastAPI) e MySQL
-eu primeiro projeto básico em Python, usando FastAPI e conexão com banco de dados MySQL (Workbench).
+Meu primeiro projeto básico em Python, usando FastAPI e conexão com banco de dados MySQL (Workbench).
 
 No momento estou seguindo o padrão de arquitetura que uso nos meus projetos Java, tentando aplicar conceitos de **POO (Programação Orientada a Objetos)** e **Arquitetura Limpa**.
 
