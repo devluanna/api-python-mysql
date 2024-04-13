@@ -15,7 +15,9 @@ Este repositório esta organizado em:
 
 A estrutura do projeto foi organizada dessa forma para promover a separação de preocupações e a manutenção do código de forma mais organizada e escalável.
 
-Por enquanto tenho a entidade **User** e o método - `@post (create_user)`.
+Por enquanto o projeto tem:
+- `Entity:` **User**`.
+- `Método:` @post (create_user)`.
 </br>
 </br>
 Em breve novas atualizações! :)
