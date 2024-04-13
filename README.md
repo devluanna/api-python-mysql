@@ -15,6 +15,8 @@ Este repositório esta organizado em:
 
 A estrutura do projeto foi organizada dessa forma para promover a separação de preocupações e a manutenção do código de forma mais organizada e escalável.
 
+Por enquanto tenho a entidade `**User**` e o método `@post (create_user)`. Em breve novas atualizações! :)
+
 ``` mermaid
 
 classDiagram
@@ -36,7 +38,8 @@ Dependencies (libs) used:
 - pip install python-multipart
 
   **Run the server with:** uvicorn main:app --reload
-
+</br>
+</br>
 Para facilitar a execução do servidor, pode alterar o arquivo principal:
 
 if __name__ == "__main__":
